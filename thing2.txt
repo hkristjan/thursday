@@ -1,7 +1,7 @@
 This is the first line
 Some new random text: 19066
 Some new random text: 19066
-other text also
+There is other text here
 Some new random text: 19066
 This thought was also added to the file
 Some new random text: 19066
